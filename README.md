@@ -14,4 +14,16 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Animesh-2211/LeetCode/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
