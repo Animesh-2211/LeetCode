@@ -21,6 +21,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,4 +34,20 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Animesh-2211/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
