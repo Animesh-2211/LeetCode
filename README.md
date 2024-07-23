@@ -32,6 +32,7 @@ LeetCode Solved Question  topic wise
 | [0118-pascals-triangle](https://github.com/Animesh-2211/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/Animesh-2211/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +41,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Animesh-2211/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0392-is-subsequence](https://github.com/Animesh-2211/LeetCode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,5 +73,6 @@ LeetCode Solved Question  topic wise
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Animesh-2211/LeetCode/tree/master/0392-is-subsequence) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
