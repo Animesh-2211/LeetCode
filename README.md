@@ -89,4 +89,8 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Animesh-2211/LeetCode/tree/master/0162-find-peak-element) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Animesh-2211/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
