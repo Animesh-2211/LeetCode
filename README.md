@@ -30,6 +30,7 @@ LeetCode Solved Question  topic wise
 | [0200-number-of-islands](https://github.com/Animesh-2211/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Animesh-2211/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1319-unique-number-of-occurrences](https://github.com/Animesh-2211/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
@@ -117,4 +118,8 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Animesh-2211/LeetCode/tree/master/0200-number-of-islands) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Animesh-2211/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
