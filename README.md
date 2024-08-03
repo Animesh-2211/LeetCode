@@ -31,6 +31,7 @@ LeetCode Solved Question  topic wise
 | [0213-house-robber-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Animesh-2211/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Animesh-2211/LeetCode/tree/master/0283-move-zeroes) |
 | [1319-unique-number-of-occurrences](https://github.com/Animesh-2211/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
@@ -49,6 +50,7 @@ LeetCode Solved Question  topic wise
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Animesh-2211/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Animesh-2211/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Animesh-2211/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Animesh-2211/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Animesh-2211/LeetCode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
