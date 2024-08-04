@@ -92,6 +92,7 @@ LeetCode Solved Question  topic wise
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Animesh-2211/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Animesh-2211/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Animesh-2211/LeetCode/tree/master/0392-is-subsequence) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
