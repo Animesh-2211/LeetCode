@@ -13,6 +13,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Animesh-2211/LeetCode/tree/master/0002-add-two-numbers) |
+| [0415-add-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -95,6 +96,7 @@ LeetCode Solved Question  topic wise
 | [0058-length-of-last-word](https://github.com/Animesh-2211/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Animesh-2211/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Animesh-2211/LeetCode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0415-add-strings) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Animesh-2211/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 ## Binary Search
@@ -132,4 +134,8 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Animesh-2211/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
