@@ -98,6 +98,7 @@ LeetCode Solved Question  topic wise
 | [0392-is-subsequence](https://github.com/Animesh-2211/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0415-add-strings) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Animesh-2211/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [1797-goal-parser-interpretation](https://github.com/Animesh-2211/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
