@@ -26,6 +26,7 @@ LeetCode Solved Question  topic wise
 | [0004-median-of-two-sorted-arrays](https://github.com/Animesh-2211/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Animesh-2211/LeetCode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Animesh-2211/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Animesh-2211/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Animesh-2211/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Animesh-2211/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Animesh-2211/LeetCode/tree/master/0118-pascals-triangle) |
@@ -73,6 +74,7 @@ LeetCode Solved Question  topic wise
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Animesh-2211/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Animesh-2211/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Animesh-2211/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Animesh-2211/LeetCode/tree/master/0169-majority-element) |
