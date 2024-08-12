@@ -40,6 +40,7 @@ LeetCode Solved Question  topic wise
 | [0283-move-zeroes](https://github.com/Animesh-2211/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Animesh-2211/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Animesh-2211/LeetCode/tree/master/0561-array-partition) |
+| [0932-monotonic-array](https://github.com/Animesh-2211/LeetCode/tree/master/0932-monotonic-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Animesh-2211/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
