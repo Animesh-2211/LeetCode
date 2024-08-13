@@ -98,6 +98,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Animesh-2211/LeetCode/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/Animesh-2211/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Animesh-2211/LeetCode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/Animesh-2211/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
@@ -110,6 +111,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Animesh-2211/LeetCode/tree/master/0058-length-of-last-word) |
+| [0290-word-pattern](https://github.com/Animesh-2211/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Animesh-2211/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Animesh-2211/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Animesh-2211/LeetCode/tree/master/0392-is-subsequence) |
