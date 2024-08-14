@@ -23,6 +23,7 @@ LeetCode Solved Question  topic wise
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Animesh-2211/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Animesh-2211/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Animesh-2211/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Animesh-2211/LeetCode/tree/master/0027-remove-element) |
@@ -99,6 +100,7 @@ LeetCode Solved Question  topic wise
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Animesh-2211/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Animesh-2211/LeetCode/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/Animesh-2211/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Animesh-2211/LeetCode/tree/master/0383-ransom-note) |
