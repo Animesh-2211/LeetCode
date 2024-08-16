@@ -91,6 +91,7 @@ LeetCode Solved Question  topic wise
 | [0088-merge-sorted-array](https://github.com/Animesh-2211/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Animesh-2211/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Animesh-2211/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Animesh-2211/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Animesh-2211/LeetCode/tree/master/0561-array-partition) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
@@ -108,6 +109,7 @@ LeetCode Solved Question  topic wise
 | ------- |
 | [0001-two-sum](https://github.com/Animesh-2211/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Animesh-2211/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Animesh-2211/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Animesh-2211/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Animesh-2211/LeetCode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/Animesh-2211/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -121,6 +123,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Animesh-2211/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Animesh-2211/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Animesh-2211/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Animesh-2211/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Animesh-2211/LeetCode/tree/master/0383-ransom-note) |
