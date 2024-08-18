@@ -13,6 +13,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Animesh-2211/LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Animesh-2211/LeetCode/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
@@ -108,6 +109,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Animesh-2211/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Animesh-2211/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Animesh-2211/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Animesh-2211/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Animesh-2211/LeetCode/tree/master/0290-word-pattern) |
@@ -122,6 +124,7 @@ LeetCode Solved Question  topic wise
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Animesh-2211/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Animesh-2211/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Animesh-2211/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Animesh-2211/LeetCode/tree/master/0290-word-pattern) |
