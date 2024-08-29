@@ -46,6 +46,7 @@ LeetCode Solved Question  topic wise
 | [0414-third-maximum-number](https://github.com/Animesh-2211/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Animesh-2211/LeetCode/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/Animesh-2211/LeetCode/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Animesh-2211/LeetCode/tree/master/0932-monotonic-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Animesh-2211/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1677-matrix-diagonal-sum](https://github.com/Animesh-2211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -176,6 +177,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Animesh-2211/LeetCode/tree/master/0200-number-of-islands) |
+| [0898-transpose-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Animesh-2211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Prefix Sum
 |  |
@@ -185,6 +187,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0415-add-strings) |
+| [0898-transpose-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0898-transpose-matrix) |
 ## Tree
 |  |
 | ------- |
