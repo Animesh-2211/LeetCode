@@ -48,6 +48,7 @@ LeetCode Solved Question  topic wise
 | [0890-lemonade-change](https://github.com/Animesh-2211/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/Animesh-2211/LeetCode/tree/master/0932-monotonic-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Animesh-2211/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1677-matrix-diagonal-sum](https://github.com/Animesh-2211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
@@ -175,6 +176,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Animesh-2211/LeetCode/tree/master/0200-number-of-islands) |
+| [1677-matrix-diagonal-sum](https://github.com/Animesh-2211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Prefix Sum
 |  |
 | ------- |
