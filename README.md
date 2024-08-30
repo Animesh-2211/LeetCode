@@ -32,6 +32,7 @@ LeetCode Solved Question  topic wise
 | [0027-remove-element](https://github.com/Animesh-2211/LeetCode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Animesh-2211/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Animesh-2211/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Animesh-2211/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Animesh-2211/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Animesh-2211/LeetCode/tree/master/0075-sort-colors) |
@@ -181,6 +182,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Animesh-2211/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Animesh-2211/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Animesh-2211/LeetCode/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0898-transpose-matrix) |
@@ -192,6 +194,7 @@ LeetCode Solved Question  topic wise
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0898-transpose-matrix) |
 ## Tree
