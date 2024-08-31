@@ -9,6 +9,7 @@ LeetCode Solved Question  topic wise
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Animesh-2211/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Animesh-2211/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Animesh-2211/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Animesh-2211/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
@@ -84,6 +85,7 @@ LeetCode Solved Question  topic wise
 | [0088-merge-sorted-array](https://github.com/Animesh-2211/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Animesh-2211/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Animesh-2211/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Animesh-2211/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Animesh-2211/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Animesh-2211/LeetCode/tree/master/0392-is-subsequence) |
@@ -123,6 +125,7 @@ LeetCode Solved Question  topic wise
 | [0013-roman-to-integer](https://github.com/Animesh-2211/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Animesh-2211/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Animesh-2211/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Animesh-2211/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Animesh-2211/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Animesh-2211/LeetCode/tree/master/0290-word-pattern) |
