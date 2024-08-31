@@ -14,7 +14,7 @@ public class Solution {
            ListNode fast=head;
         ListNode slow=head;
             boolean got=false;
-            int count=0;
+          
         while(fast !=null && fast.next!=null){
             fast=fast.next.next;
             slow=slow.next;
@@ -33,7 +33,7 @@ public class Solution {
 
          while(slow!=fast){
             slow=slow.next;
-            count++;
+           
             fast=fast.next;
          }
 
