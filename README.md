@@ -38,6 +38,7 @@ LeetCode Solved Question  topic wise
 | [0048-rotate-image](https://github.com/Animesh-2211/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Animesh-2211/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Animesh-2211/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Animesh-2211/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Animesh-2211/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Animesh-2211/LeetCode/tree/master/0075-sort-colors) |
@@ -66,6 +67,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Animesh-2211/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Animesh-2211/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Animesh-2211/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0213-house-robber-ii) |
@@ -74,6 +76,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Animesh-2211/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Animesh-2211/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Animesh-2211/LeetCode/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/Animesh-2211/LeetCode/tree/master/0890-lemonade-change) |
