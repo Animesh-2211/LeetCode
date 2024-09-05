@@ -21,6 +21,7 @@ LeetCode Solved Question  topic wise
 | [0048-rotate-image](https://github.com/Animesh-2211/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Animesh-2211/LeetCode/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0415-add-strings) |
+| [2155-find-missing-observations](https://github.com/Animesh-2211/LeetCode/tree/master/2155-find-missing-observations) |
 ## Recursion
 |  |
 | ------- |
@@ -63,6 +64,7 @@ LeetCode Solved Question  topic wise
 | [1319-unique-number-of-occurrences](https://github.com/Animesh-2211/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1677-matrix-diagonal-sum](https://github.com/Animesh-2211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Animesh-2211/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Animesh-2211/LeetCode/tree/master/2155-find-missing-observations) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
@@ -217,6 +219,7 @@ LeetCode Solved Question  topic wise
 | [0415-add-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Animesh-2211/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Animesh-2211/LeetCode/tree/master/2155-find-missing-observations) |
 ## Tree
 |  |
 | ------- |
