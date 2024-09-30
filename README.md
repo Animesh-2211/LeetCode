@@ -19,6 +19,7 @@ LeetCode Solved Question  topic wise
 | [0002-add-two-numbers](https://github.com/Animesh-2211/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Animesh-2211/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Animesh-2211/LeetCode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Animesh-2211/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Animesh-2211/LeetCode/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0415-add-strings) |
 | [2155-find-missing-observations](https://github.com/Animesh-2211/LeetCode/tree/master/2155-find-missing-observations) |
@@ -175,6 +176,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Animesh-2211/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Animesh-2211/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Animesh-2211/LeetCode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Animesh-2211/LeetCode/tree/master/0278-first-bad-version) |
 ## Database
