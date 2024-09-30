@@ -176,6 +176,7 @@ LeetCode Solved Question  topic wise
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Animesh-2211/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/Animesh-2211/LeetCode/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/Animesh-2211/LeetCode/tree/master/0278-first-bad-version) |
 ## Database
 |  |
 | ------- |
@@ -266,4 +267,8 @@ LeetCode Solved Question  topic wise
 | [0094-binary-tree-inorder-traversal](https://github.com/Animesh-2211/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Animesh-2211/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Animesh-2211/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Animesh-2211/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
