@@ -37,6 +37,7 @@ LeetCode Solved Question  topic wise
 | [0011-container-with-most-water](https://github.com/Animesh-2211/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Animesh-2211/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Animesh-2211/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Animesh-2211/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Animesh-2211/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Animesh-2211/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0054-spiral-matrix) |
@@ -176,6 +177,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Animesh-2211/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Animesh-2211/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Animesh-2211/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Animesh-2211/LeetCode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Animesh-2211/LeetCode/tree/master/0278-first-bad-version) |
