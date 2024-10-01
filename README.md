@@ -148,6 +148,7 @@ LeetCode Solved Question  topic wise
 | [0242-valid-anagram](https://github.com/Animesh-2211/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Animesh-2211/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Animesh-2211/LeetCode/tree/master/0383-ransom-note) |
+| [0889-buddy-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0889-buddy-strings) |
 | [1319-unique-number-of-occurrences](https://github.com/Animesh-2211/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 ## Counting
@@ -172,6 +173,7 @@ LeetCode Solved Question  topic wise
 | [0392-is-subsequence](https://github.com/Animesh-2211/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0415-add-strings) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Animesh-2211/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0889-buddy-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0889-buddy-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Animesh-2211/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1797-goal-parser-interpretation](https://github.com/Animesh-2211/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
