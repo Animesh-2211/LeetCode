@@ -70,6 +70,7 @@ LeetCode Solved Question  topic wise
 | [2132-convert-1d-array-into-2d-array](https://github.com/Animesh-2211/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Animesh-2211/LeetCode/tree/master/2155-find-missing-observations) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Animesh-2211/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,6 +184,7 @@ LeetCode Solved Question  topic wise
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Animesh-2211/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/Animesh-2211/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Animesh-2211/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,6 +234,7 @@ LeetCode Solved Question  topic wise
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Animesh-2211/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Animesh-2211/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Animesh-2211/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Simulation
 |  |
 | ------- |
