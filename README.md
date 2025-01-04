@@ -154,6 +154,7 @@ LeetCode Solved Question  topic wise
 | [0889-buddy-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0889-buddy-strings) |
 | [1319-unique-number-of-occurrences](https://github.com/Animesh-2211/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Animesh-2211/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Animesh-2211/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
@@ -184,6 +185,7 @@ LeetCode Solved Question  topic wise
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Animesh-2211/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Animesh-2211/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/Animesh-2211/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Animesh-2211/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Animesh-2211/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Binary Search
@@ -235,6 +237,7 @@ LeetCode Solved Question  topic wise
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Animesh-2211/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Animesh-2211/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Animesh-2211/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Animesh-2211/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Animesh-2211/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Simulation
@@ -297,4 +300,8 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Animesh-2211/LeetCode/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Animesh-2211/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
