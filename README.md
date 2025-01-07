@@ -65,6 +65,7 @@ LeetCode Solved Question  topic wise
 | [0898-transpose-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Animesh-2211/LeetCode/tree/master/0932-monotonic-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Animesh-2211/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1524-string-matching-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Animesh-2211/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1677-matrix-diagonal-sum](https://github.com/Animesh-2211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Animesh-2211/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -185,6 +186,7 @@ LeetCode Solved Question  topic wise
 | [0521-longest-uncommon-subsequence-i](https://github.com/Animesh-2211/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0889-buddy-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0889-buddy-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Animesh-2211/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1524-string-matching-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Animesh-2211/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/Animesh-2211/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Animesh-2211/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -291,6 +293,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Animesh-2211/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Stack
 |  |
 | ------- |
