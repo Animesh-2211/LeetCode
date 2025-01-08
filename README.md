@@ -75,6 +75,7 @@ LeetCode Solved Question  topic wise
 | [2465-shifting-letters-ii](https://github.com/Animesh-2211/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Animesh-2211/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Animesh-2211/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,6 +195,7 @@ LeetCode Solved Question  topic wise
 | [2465-shifting-letters-ii](https://github.com/Animesh-2211/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Animesh-2211/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Animesh-2211/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -294,6 +296,7 @@ LeetCode Solved Question  topic wise
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Animesh-2211/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Animesh-2211/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -309,8 +312,17 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Animesh-2211/LeetCode/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Animesh-2211/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Animesh-2211/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Animesh-2211/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Animesh-2211/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
