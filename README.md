@@ -95,6 +95,7 @@ LeetCode Solved Question  topic wise
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Animesh-2211/LeetCode/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/Animesh-2211/LeetCode/tree/master/0890-lemonade-change) |
+| [1502-construct-k-palindrome-strings](https://github.com/Animesh-2211/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@ LeetCode Solved Question  topic wise
 | [0889-buddy-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Animesh-2211/LeetCode/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Animesh-2211/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1502-construct-k-palindrome-strings](https://github.com/Animesh-2211/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Animesh-2211/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Animesh-2211/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
@@ -168,6 +170,7 @@ LeetCode Solved Question  topic wise
 | ------- |
 | [0169-majority-element](https://github.com/Animesh-2211/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Animesh-2211/LeetCode/tree/master/0383-ransom-note) |
+| [1502-construct-k-palindrome-strings](https://github.com/Animesh-2211/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Animesh-2211/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## String
 |  |
@@ -191,6 +194,7 @@ LeetCode Solved Question  topic wise
 | [0889-buddy-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Animesh-2211/LeetCode/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Animesh-2211/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/Animesh-2211/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Animesh-2211/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/Animesh-2211/LeetCode/tree/master/1797-goal-parser-interpretation) |
