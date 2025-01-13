@@ -166,6 +166,7 @@ LeetCode Solved Question  topic wise
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Animesh-2211/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Animesh-2211/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Animesh-2211/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
 | ------- |
@@ -173,6 +174,7 @@ LeetCode Solved Question  topic wise
 | [0383-ransom-note](https://github.com/Animesh-2211/LeetCode/tree/master/0383-ransom-note) |
 | [1502-construct-k-palindrome-strings](https://github.com/Animesh-2211/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Animesh-2211/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Animesh-2211/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -207,6 +209,7 @@ LeetCode Solved Question  topic wise
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Animesh-2211/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Animesh-2211/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Animesh-2211/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
 | ------- |
