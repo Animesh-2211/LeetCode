@@ -98,6 +98,7 @@ LeetCode Solved Question  topic wise
 | [0890-lemonade-change](https://github.com/Animesh-2211/LeetCode/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/Animesh-2211/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Animesh-2211/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/Animesh-2211/LeetCode/tree/master/2509-minimize-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -335,6 +336,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Animesh-2211/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/Animesh-2211/LeetCode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Animesh-2211/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Rolling Hash
 |  |
