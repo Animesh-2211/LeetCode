@@ -71,6 +71,7 @@ LeetCode Solved Question  topic wise
 | [1524-string-matching-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Animesh-2211/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1677-matrix-diagonal-sum](https://github.com/Animesh-2211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1876-map-of-highest-peak](https://github.com/Animesh-2211/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Animesh-2211/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Animesh-2211/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Animesh-2211/LeetCode/tree/master/2145-grid-game) |
@@ -254,6 +255,7 @@ LeetCode Solved Question  topic wise
 | [0200-number-of-islands](https://github.com/Animesh-2211/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Animesh-2211/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Animesh-2211/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Union Find
 |  |
 | ------- |
@@ -269,6 +271,7 @@ LeetCode Solved Question  topic wise
 | [0898-transpose-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0898-transpose-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Animesh-2211/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/Animesh-2211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1876-map-of-highest-peak](https://github.com/Animesh-2211/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Animesh-2211/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Animesh-2211/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Animesh-2211/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
