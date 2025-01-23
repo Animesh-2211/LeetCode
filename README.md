@@ -67,6 +67,7 @@ LeetCode Solved Question  topic wise
 | [0932-monotonic-array](https://github.com/Animesh-2211/LeetCode/tree/master/0932-monotonic-array) |
 | [0952-word-subsets](https://github.com/Animesh-2211/LeetCode/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Animesh-2211/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1396-count-servers-that-communicate](https://github.com/Animesh-2211/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Animesh-2211/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Animesh-2211/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -185,6 +186,7 @@ LeetCode Solved Question  topic wise
 | ------- |
 | [0169-majority-element](https://github.com/Animesh-2211/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Animesh-2211/LeetCode/tree/master/0383-ransom-note) |
+| [1396-count-servers-that-communicate](https://github.com/Animesh-2211/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Animesh-2211/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Animesh-2211/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Animesh-2211/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -249,17 +251,20 @@ LeetCode Solved Question  topic wise
 | [0094-binary-tree-inorder-traversal](https://github.com/Animesh-2211/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Animesh-2211/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Animesh-2211/LeetCode/tree/master/0200-number-of-islands) |
+| [1396-count-servers-that-communicate](https://github.com/Animesh-2211/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Animesh-2211/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Animesh-2211/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Animesh-2211/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Animesh-2211/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Animesh-2211/LeetCode/tree/master/0200-number-of-islands) |
+| [1396-count-servers-that-communicate](https://github.com/Animesh-2211/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
@@ -269,6 +274,7 @@ LeetCode Solved Question  topic wise
 | [0200-number-of-islands](https://github.com/Animesh-2211/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0898-transpose-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0898-transpose-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/Animesh-2211/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Animesh-2211/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/Animesh-2211/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1876-map-of-highest-peak](https://github.com/Animesh-2211/LeetCode/tree/master/1876-map-of-highest-peak) |
