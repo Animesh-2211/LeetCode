@@ -22,6 +22,7 @@ LeetCode Solved Question  topic wise
 | [0069-sqrtx](https://github.com/Animesh-2211/LeetCode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Animesh-2211/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Animesh-2211/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Animesh-2211/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0415-add-strings) |
 | [2155-find-missing-observations](https://github.com/Animesh-2211/LeetCode/tree/master/2155-find-missing-observations) |
 ## Recursion
@@ -313,6 +314,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Animesh-2211/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Animesh-2211/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -411,4 +413,8 @@ LeetCode Solved Question  topic wise
 | ------- |
 | [1558-course-schedule-iv](https://github.com/Animesh-2211/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Animesh-2211/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Animesh-2211/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
