@@ -95,6 +95,7 @@ LeetCode Solved Question  topic wise
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Animesh-2211/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Animesh-2211/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Animesh-2211/LeetCode/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Animesh-2211/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,6 +192,7 @@ LeetCode Solved Question  topic wise
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Animesh-2211/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Animesh-2211/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Animesh-2211/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Animesh-2211/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
@@ -329,6 +331,7 @@ LeetCode Solved Question  topic wise
 | [0898-transpose-matrix](https://github.com/Animesh-2211/LeetCode/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Animesh-2211/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Animesh-2211/LeetCode/tree/master/2155-find-missing-observations) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Animesh-2211/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Tree
 |  |
 | ------- |
