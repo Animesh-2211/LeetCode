@@ -25,6 +25,7 @@ LeetCode Solved Question  topic wise
 | [0258-add-digits](https://github.com/Animesh-2211/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0415-add-strings) |
 | [2155-find-missing-observations](https://github.com/Animesh-2211/LeetCode/tree/master/2155-find-missing-observations) |
+| [2448-count-number-of-bad-pairs](https://github.com/Animesh-2211/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +85,7 @@ LeetCode Solved Question  topic wise
 | [2155-find-missing-observations](https://github.com/Animesh-2211/LeetCode/tree/master/2155-find-missing-observations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Animesh-2211/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Animesh-2211/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/Animesh-2211/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Animesh-2211/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Animesh-2211/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -191,6 +193,7 @@ LeetCode Solved Question  topic wise
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Animesh-2211/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Animesh-2211/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2434-design-a-number-container-system](https://github.com/Animesh-2211/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Animesh-2211/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Animesh-2211/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Animesh-2211/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -206,6 +209,7 @@ LeetCode Solved Question  topic wise
 | [1502-construct-k-palindrome-strings](https://github.com/Animesh-2211/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Animesh-2211/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Animesh-2211/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/Animesh-2211/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Animesh-2211/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
