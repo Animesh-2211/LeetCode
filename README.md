@@ -246,6 +246,7 @@ LeetCode Solved Question  topic wise
 | [2502-sort-the-people](https://github.com/Animesh-2211/LeetCode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Animesh-2211/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Animesh-2211/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Animesh-2211/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Animesh-2211/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
@@ -338,6 +339,7 @@ LeetCode Solved Question  topic wise
 | [2132-convert-1d-array-into-2d-array](https://github.com/Animesh-2211/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Animesh-2211/LeetCode/tree/master/2155-find-missing-observations) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Animesh-2211/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Animesh-2211/LeetCode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -387,6 +389,7 @@ LeetCode Solved Question  topic wise
 | [0145-binary-tree-postorder-traversal](https://github.com/Animesh-2211/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Animesh-2211/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Animesh-2211/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/Animesh-2211/LeetCode/tree/master/3447-clear-digits) |
 ## Interactive
 |  |
 | ------- |
