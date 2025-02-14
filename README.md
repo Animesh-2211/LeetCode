@@ -24,6 +24,7 @@ LeetCode Solved Question  topic wise
 | [0189-rotate-array](https://github.com/Animesh-2211/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Animesh-2211/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0415-add-strings) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Animesh-2211/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2155-find-missing-observations](https://github.com/Animesh-2211/LeetCode/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Animesh-2211/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
@@ -72,6 +73,7 @@ LeetCode Solved Question  topic wise
 | [1319-unique-number-of-occurrences](https://github.com/Animesh-2211/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Animesh-2211/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Animesh-2211/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Animesh-2211/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Animesh-2211/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Animesh-2211/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Animesh-2211/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -327,6 +329,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Animesh-2211/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Animesh-2211/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Animesh-2211/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Animesh-2211/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Animesh-2211/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -356,6 +359,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Animesh-2211/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Animesh-2211/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Animesh-2211/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
@@ -371,6 +375,7 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Animesh-2211/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Animesh-2211/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Counting Sort
 |  |
 | ------- |
