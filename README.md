@@ -27,6 +27,7 @@ LeetCode Solved Question  topic wise
 | [1477-product-of-the-last-k-numbers](https://github.com/Animesh-2211/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2155-find-missing-observations](https://github.com/Animesh-2211/LeetCode/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Animesh-2211/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Animesh-2211/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -456,4 +457,8 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Animesh-2211/LeetCode/tree/master/2434-design-a-number-container-system) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Animesh-2211/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
