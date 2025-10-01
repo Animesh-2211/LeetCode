@@ -65,6 +65,7 @@ LeetCode Solved Question  topic wise
 | [0283-move-zeroes](https://github.com/Animesh-2211/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Animesh-2211/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/Animesh-2211/LeetCode/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/Animesh-2211/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Animesh-2211/LeetCode/tree/master/0561-array-partition) |
 | [0854-making-a-large-island](https://github.com/Animesh-2211/LeetCode/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/Animesh-2211/LeetCode/tree/master/0890-lemonade-change) |
@@ -191,6 +192,7 @@ LeetCode Solved Question  topic wise
 | [0242-valid-anagram](https://github.com/Animesh-2211/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Animesh-2211/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Animesh-2211/LeetCode/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/Animesh-2211/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0889-buddy-strings](https://github.com/Animesh-2211/LeetCode/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Animesh-2211/LeetCode/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Animesh-2211/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -402,6 +404,7 @@ LeetCode Solved Question  topic wise
 | [0020-valid-parentheses](https://github.com/Animesh-2211/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Animesh-2211/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Animesh-2211/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Animesh-2211/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Animesh-2211/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Animesh-2211/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Animesh-2211/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -464,4 +467,8 @@ LeetCode Solved Question  topic wise
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Animesh-2211/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Animesh-2211/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
